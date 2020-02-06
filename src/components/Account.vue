@@ -30,11 +30,8 @@
        <div>Class 4</div>
      </div>
    </div>
-
-
-    </div>
+   
   </div>
-
 </template>
 
 <script>
